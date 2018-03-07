@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListaDeTareas</string>
+    <string name="txvEmpresa">No Tengo Tiempo</string>
+    <string name="btnAnadirTarea">Añadir Tarea</string>
+</resources>
