@@ -13,7 +13,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 public class ApiAdapter {
     private static ApiService API_SERVICE;
 
-    public static final String BASE_URL = "http://jesusroldan.sytes.net";
+    public static final String BASE_URL = "https://jesusroldan.sytes.net";
 
     public static synchronized ApiService getInstance() {
 
