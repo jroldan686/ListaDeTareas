@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Modificar"
+        android:id="@+id/modify_tarea" />
+    <item android:title="Eliminar"
+        android:id="@+id/delete_tarea" />
+    <item android:title="Copia de seguridad"
+        android:id="@+id/backup_tareas" />
+</menu>

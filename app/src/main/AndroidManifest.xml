@@ -18,9 +18,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".AnadirTareaActivity" />
-        <activity android:name=".VerTareaActivity" />
-        <activity android:name=".ModificarTareaActivity"></activity>
+
+        <activity android:name=".ui.AddActivity" />
+        <activity android:name=".ui.EmailActivity" />
+        <activity android:name=".ui.UpdateActivity" />
     </application>
 
 </manifest>
